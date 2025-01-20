@@ -1,0 +1,42 @@
+Casino 0
+Brinner/PJ 2
+Game night 0
+Fry night 4
+Chopped 5
+Skit night/Talent Show 7
+Trivia 4
+Short Film night 0
+Amazing Race 0
+
+##Big Cookie night
+##Ice Cream/Blizzard night
+##Shazam night
+##Paper Airplane night
+###Twinning Club
+##Kareoke
+##Clothing Drive/Swag Swap (For LA)
+---
+
+Event, Time, Event, Location, Talk, Leaders, Staff, Food/Drink, Notes
+1/22, 11-2, Be Involved, Ballroom, 
+1/22, 7, Trivia, Bella, Allen, Simon Abby
+1/29, 7, Gamer Night, Bella, Jaben, AJ Nate, Brennen, Steven Jaben
+2/5, X, Volunteer Fair, 
+2/5, 7, Bowling, UMC, No, Brennan, Allen
+2/12, 7, Casino night, Bella, Hannah Nate, AJ Hannah, Tipsey Trey
+2/19, 7, Brinner, Bella, Abby Raina, Abby Hannah Ben, Jaben
+2/26, 7, Short Film night, Bella, Ben Steven, AJ Simon Ben Brennan
+3/5, 7, MR YLC, Bella, No, Lily Remi Abby, Steven
+3/12, 6, Soccer and VB, Business Field, No, Simon Ben, Steven Jaben
+3/19, NA --->
+2/22, Start of Spring Break
+3/26, NA, Spring Break
+3/28, End of Spring Break
+4/2, 6, Fry and Fly, Bella, Yes, AJ, Trey Jaben, Steven, Steven
+4/9, 6, Chimney, Chimney, Yes, Remi Lily, Trey Jaben, Kelby
+4/16, 6, Amazing Race, Bella, No, Brennan Nate, Steven
+4/23, 6, Spikeball and cookout, Business Field, Yes, Raina
+5/19, Golf Tournament
+
+
+Life Groups
